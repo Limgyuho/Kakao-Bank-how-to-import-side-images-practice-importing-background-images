@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+img {
+    width: 1080px;
+    display: block;
+}
+
+
+div {
+    height: 800px;
+    background-size: cover; /* contain */ /* 100% auto */ /* auto 100% */
+    background-repeat: no-repeat;
+    background-color: red;
+    background-position: center;
+}
